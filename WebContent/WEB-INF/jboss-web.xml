@@ -1,4 +1,0 @@
-<jboss-web>
-  <context-root>portal</context-root>
-  <security-domain>PORTAL_REALM</security-domain>
-</jboss-web>
