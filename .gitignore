@@ -34,7 +34,7 @@ build/
 
 ### Angular ###
 
-/src/frontend/.angular
-/src/frontend/node_modules
+/src/main/frontend/.angular
+/src/main/frontend/node_modules
 
 
