@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Angular ###
+
+/src/frontend/.angular
+/src/frontend/node_modules
+
+
